@@ -1,0 +1,14 @@
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\bin\Debug\net6.0\ScreenSound-ConsumindoAPI.exe
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\bin\Debug\net6.0\ScreenSound-ConsumindoAPI.deps.json
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\bin\Debug\net6.0\ScreenSound-ConsumindoAPI.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\bin\Debug\net6.0\ScreenSound-ConsumindoAPI.dll
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\bin\Debug\net6.0\ScreenSound-ConsumindoAPI.pdb
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.dll
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\refint\ScreenSound-ConsumindoAPI.dll
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.pdb
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ScreenSound-ConsumindoAPI.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Documentos\C#\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\ScreenSound-ConsumindoAPI\obj\Debug\net6.0\ref\ScreenSound-ConsumindoAPI.dll
